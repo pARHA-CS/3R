@@ -14,10 +14,52 @@ Unemployement rate
 Impact of crisis
 
 Results : 
-Impact of crisis : positive impact on NEET, with a persistance during 2009-2010
-macro-regions : Southern regions has the highest rates of persitence of NEET, UR and YUR 
+Impact of crisis : impact positif sur les NEET, avec une persistence durant 2009 -2010
+macro-regions : Les régions du Sud ont le plus grand taux de persistence de NEET  de UR et de YUR
 GDP growth x regions x crisis : the sensitivity of NEET rates depends of the region and if it's crisis or not. During crisis the gdp has less impact on the sens in Anglo-Saxons regions, 
 GDP : significative positive impact of GDP on NEET and YUR rates.
+
+---
+
+Article 3 : How do the unemployed search for a job? Evidence from the EU Labour Force Survey
+
+variables :
+
+y = search intensity and search methods 
+
+Xi:
+Caractéristiques individuelles (âge, sexe, éducation)
+Caractéristiques du ménage (taille, statut d'emploi du conjoint) 
+Méthodes de recherche d'emploi (agences publiques, réseaux personnels, publicités)
+
+Auteurs :
+Gorsuch 1983; Johnson and Wichern 2008 : Matrice de corrélation entre les méthodes de recherches 
+Weber and Mahringer 2008 : les hommes recherchent avec plus d'intensité que les femmes
+Riddell and Song (2011); Weber and Mahringer (2008) : plus les individus ont de compétences plus leur intensité de recherche augmente
+(Petrongolo and Pissarides 2001) : il peut y avoir une causalité inverse si les chômeurs qui recherchent plus intensivement sont également plus susceptibles de sortir rapidement du chômage
+Holzer (1988) : trouve une relation positive entre la durée de chomage et l'intensité de recherche 
+Mellow (1979) : trouve une relation négative entre la durée de chomage et l'intensité de recherche 
+Montgomery (1991); Calvó-Armengol; Jackson (2004); Rees (1966); Loury (2006) : Le portefeuille social a un impact sur la recherche d'un job
+
+
+Données : 
+Eurostat
+EU-LFS : Pour tous les Xi 
+
+Modèles:
+Ordered logit : *intensité de recherche* ~ *caract indiv* (age, durée de chomage, dernier emploi, le secteur du dernier emploi) + *caract du ménage* (nbr d'adulte et d'enfants, situation du partenaire)
+
+
+Results :
+Caract indiv : Les individus ayant le plus de chances de trouver un job sont ceux qui ont les plus de compétences, qui sont encore jeunes et qui ont une forte intensité de recherche
+Les caract du ménage : Déterminants importants pour l'intensité de recherche. 
+    - Plus ils ont d'enfants moins les individus mettent de l'intensité dans la recherche
+    - Un(e) partenaire sans emplois engendre à moins d'effors de recherche et à une plus grande dépendance à Pôle Emploi.
+    - Pour les femmes il y a une corrélation négative entre l'intensité de recherche et les carct du ménage.
+
+Méthodes de recherche d'emploi : Ou les individus utilisent Pôle Emploi ou ils utilisent d'autres méthodes de recherche. Pôle Emploi est principalement utilisé si les autres canaux de recherche sont bouchés
+
+Les politiques publiques ont un gros impact sur les méthodes de recherche et leur intensité. Des différences se font voir entre différents pays.
 
 ---
 
